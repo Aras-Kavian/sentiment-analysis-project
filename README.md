@@ -36,4 +36,4 @@ Prediction: Positive ✅
 ---
 
 👨‍💻 **Author:** [Aras Kavyani]  
-🔗 [LinkedIn](#www.linkedin.com/in/aras-kavyani) | [LaborX Profile](#https://laborx.com/customers/users/id409982?ref=409982) | [CryptoTask Profile](#https://www.cryptotask.org/en/freelancers/aras-kavyan/46480)
+🔗 [LinkedIn](#www.linkedin.com/in/aras-kavyani) | [LaborX Profile](#www.laborx.com/customers/users/id409982?ref=409982) | [CryptoTask Profile](#www.cryptotask.org/en/freelancers/aras-kavyan/46480)
