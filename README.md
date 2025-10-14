@@ -47,6 +47,11 @@ You can launch a simple web interface to test the model interactively:
 
 '''bash
 streamlit run src/app_streamlit.py'''
+Then open the URL (usually http://localhost:8501) in your browser.
+
+Example UI:
+	•	Type any sentence in the text box
+	•	Click “Analyze” to see the predicted sentiment
 
 ## 📝 Next Steps 
  
