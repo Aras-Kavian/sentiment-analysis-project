@@ -42,11 +42,11 @@ For a simple UI:
 
 ## 📁 Project Structure
 sentiment-analysis-project/
-- ├── data/
+- | data/
 - |    └── IMDB Dataset.csv
-- ├── notebook/
+- | notebook/
 - |    └── sentiment_analysis_training.ipynb
-- ├── src/
+- | src/
 - |    ├── app.py
 - |    ├── app_streamlit.py
 - |    ├── metrics.json
@@ -54,10 +54,10 @@ sentiment-analysis-project/
 - |    ├── predict.py
 - |    ├── sentiment_model.pkl
 - |    └── vectorizer.pkl
-- ├── assets/
+- | assets/
 - |    └── demo_screenshot.png
-- ├── requirements.txt
-- └── README.md
+- | requirements.txt
+  └── README.md
 
 ## 🌍 Author & Links
 #### 👤 Aras Kavyani / AI 1900
