@@ -42,22 +42,22 @@ For a simple UI:
 
 ## 📁 Project Structure
 #### sentiment-analysis-project/
-- #### ├── data/
--    ├── IMDB Dataset.csv
-- #### ├── notebook/
--    ├── sentiment_analysis_training.ipynb
-- #### ├── src/
--    ├── app_streamlit.py
--    ├── app.py
--    ├── metrics.json
--    ├── train.py
--    ├── predict.py
--    ├── sentiment_model.pkl
--    └── vectorizer.pkl
-- ├── requirements.txt
-- ├── README.md
-- #### └── assets/
--    └── demo_screenshot.png
+#### ├── data/
+|    ├── IMDB Dataset.csv
+#### ├── notebook/
+|    ├── sentiment_analysis_training.ipynb
+#### ├── src/
+|    ├── app_streamlit.py
+|    ├── app.py
+|    ├── metrics.json
+|    ├── train.py
+|    ├── predict.py
+|    ├── sentiment_model.pkl
+|    └── vectorizer.pkl
+#### ├── assets/
+|    └── demo_screenshot.png
+├── requirements.txt
+└── README.md
 
 ## 🌍 Author & Links
 #### 👤 Aras Kavyani / AI 1900
