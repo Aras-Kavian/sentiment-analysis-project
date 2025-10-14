@@ -11,15 +11,25 @@ A simple **Sentiment Analysis** project built with **Logistic Regression** and *
 ## 🚀 Demo
 
 You can launch the app locally:
-
-'''bash
-streamlit run src/app_streamlit.py'''
-
-Then open http://localhost:8501 in your browser.
-
+streamlit run src/app_streamlit.py
+Then open http://localhost:8501 in your browser:
 <p align="center">
   <img src="assets/demo_screenshot.png" alt="Demo Screenshot" width="600">
 </p>
+
+## 📦 Installation
+Clone the repository and install dependencies:
+git clone https://github.com/YOUR_USERNAME/sentiment-analysis-demo.git
+cd sentiment-analysis-demo
+pip install -r requirements.txt
+
+### 🧪 Usage
+
+## 1️⃣ CLI Mode
+Run sentiment prediction from the command line:
+python src/predict.py "I love this product!"
+Expected output:
+Predicted sentiment: Positive
 
 ## 📝 Next Steps 
  
