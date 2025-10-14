@@ -36,13 +36,13 @@ Model and vectorizer are saved for later use in a simple CLI/Web interface.
 After training the model, you can run an interactive CLI tool:
 
 '''bash
-python src/app.py
+python src/app.py'''
 Then type any sentence to analyze its sentiment.
 Type exit or quit to close the program.
 
 Example:
 Enter text: This movie was fantastic!
-Prediction: POSITIVE'''
+Prediction: POSITIVE
 
 ## 📝 Next Steps 
 - [ ] Build simple CLI / Streamlit UI  
