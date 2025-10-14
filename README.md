@@ -1,57 +1,25 @@
-# 🧠 Sentiment Analysis Project
+# 🧠 Sentiment Analysis Web App
 
-This is a simple **Sentiment Analysis** project built with Python.  
-The goal is to classify text as **Positive**, **Negative**, or **Neutral** using a basic machine learning model.
+A simple **Sentiment Analysis** project built with **Logistic Regression** and **TF–IDF Vectorizer**, featuring:
+- ✅ Clean and modular Python code
+- 💻 Command Line Interface (CLI)
+- 🌐 Interactive Streamlit Web App
+- 📝 Clear documentation
 
-## 🚀 Features
-- Preprocessing of text (tokenization, cleaning, stopword removal)
-- Simple ML model for classification (Logistic Regression / Naive Bayes)
-- Easy-to-use interface for testing new sentences
+---
 
-## 🛠 Tech Stack
-- Python 3.x
-- scikit-learn
-- pandas / numpy
-- nltk
+## 🚀 Demo
 
-## 📂 Project Structure
-sentiment-analysis-project/
-- data/______________# Dataset files
-- notebooks/_________# Jupyter notebooks for experimentation
-- src/_______________# Source code
-- README.md
-- requirements.txt
-
-## 📊 Example Output
-Input: “I love this product!”
-Prediction: Positive ✅
-
-## 📊 Model Training
-We trained a simple Logistic Regression model on the IMDb dataset to classify text as positive or negative.  
-The model achieved an accuracy of around **88%** on the test set.  
-Model and vectorizer are saved for later use in a simple CLI/Web interface.
-
-## 🚀 Usage - Command Line Interface
-After training the model, you can run an interactive CLI tool:
-'''bash
-python src/app.py'''
-Then type any sentence to analyze its sentiment.
-Type exit or quit to close the program.
-Example:
-Enter text: This movie was fantastic!
-Prediction: POSITIVE
-
-## 🌐 Web Interface (Streamlit)
-
-You can launch a simple web interface to test the model interactively:
+You can launch the app locally:
 
 '''bash
 streamlit run src/app_streamlit.py'''
-Then open the URL (usually http://localhost:8501) in your browser.
 
-Example UI:
-	•	Type any sentence in the text box
-	•	Click “Analyze” to see the predicted sentiment
+Then open http://localhost:8501 in your browser.
+
+<p align="center">
+  <img src="assets/demo_screenshot.png" alt="Demo Screenshot" width="600">
+</p>
 
 ## 📝 Next Steps 
  
