@@ -45,8 +45,8 @@ Prediction: POSITIVE
 
 You can launch a simple web interface to test the model interactively:
 
-```bash
-streamlit run src/app_streamlit.py
+'''bash
+streamlit run src/app_streamlit.py'''
 
 ## 📝 Next Steps 
  
