@@ -26,9 +26,25 @@ sentiment-analysis-project/
 Input: “I love this product!”
 Prediction: Positive ✅
 
-## 📝 Next Steps
-- [ ] Upload dataset  
-- [ ] Add training notebook  
+## 📊 Model Training
+We trained a simple Logistic Regression model on the IMDb dataset to classify text as positive or negative.  
+The model achieved an accuracy of around **88%** on the test set.  
+Model and vectorizer are saved for later use in a simple CLI/Web interface.
+
+## 🚀 Usage - Command Line Interface
+
+After training the model, you can run an interactive CLI tool:
+
+'''bash
+python src/app.py
+Then type any sentence to analyze its sentiment.
+Type exit or quit to close the program.
+
+Example:
+Enter text: This movie was fantastic!
+Prediction: POSITIVE'''
+
+## 📝 Next Steps 
 - [ ] Build simple CLI / Streamlit UI  
 - [ ] Deploy model (Optional)
 
