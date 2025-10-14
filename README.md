@@ -16,9 +16,9 @@ The goal is to classify text as **Positive**, **Negative**, or **Neutral** using
 
 ## 📂 Project Structure
 sentiment-analysis-project/
-- data/ . . . . . . # Dataset files
-- notebooks/. . . . # Jupyter notebooks for experimentation
-- src/ . . . . . .  # Source code
+- data/              # Dataset files
+- notebooks/         # Jupyter notebooks for experimentation
+- src/               # Source code
 - README.md
 - requirements.txt
 
