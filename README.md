@@ -42,11 +42,11 @@ For a simple UI:
 
 ## 📁 Project Structure
 #### sentiment-analysis-project/
-#### ├── data/
+#### - ├── data/
 -    ├── IMDB Dataset.csv
 #### ├── notebook/
 -    ├── sentiment_analysis_training.ipynb
-#### ├── src/
+#### - ├── src/
 -    ├── app_streamlit.py
 -    ├── app.py
 -    ├── metrics.json
@@ -56,7 +56,7 @@ For a simple UI:
 -    └── vectorizer.pkl
 - ├── requirements.txt
 - ├── README.md
-#### └── assets/
+#### - └── assets/
 -    └── demo_screenshot.png
 
 ## 🌍 Author & Links
