@@ -41,28 +41,28 @@ For a simple UI:
 - Binary classification: Positive / Negative
 
 ## 📁 Project Structure
-.
-├── data/
-│   ├── IMDB Dataset.csv
-├── notebook/
-│   ├── sentiment_analysis_training.ipynb
-├── src/
-│   ├── app_streamlit.py
-│   ├── app.py
-│   ├── metrics.json
-│   ├── train.py
-│   ├── predict.py
-│   ├── sentiment_model.pkl
-│   └── vectorizer.pkl
-├── requirements.txt
-├── README.md
-└── assets/
+- sentiment-analysis-project/
+- ├── data/
+- │   ├── IMDB Dataset.csv
+- ├── notebook/
+- │   ├── sentiment_analysis_training.ipynb
+- ├── src/
+- │   ├── app_streamlit.py
+- │   ├── app.py
+- │   ├── metrics.json
+- │   ├── train.py
+- │   ├── predict.py
+- │   ├── sentiment_model.pkl
+- │   └── vectorizer.pkl
+- ├── requirements.txt
+- ├── README.md
+- └── assets/
     └── demo_screenshot.png
 
-🌍 **Author & Links**
-	•	👤 [Aras Kavyani] / AI 1900
-	•	🔗 [GitHub](#https://github.com/Aras-Kavian)
-  •	🔗 [LinkedIn](#www.linkedin.com/in/aras-kavyani)
-  •	🔗 [LaborX Profile](#www.laborx.com/customers/users/id409982?ref=409982)
-  •	🔗 [CryptoTask Profile](#www.cryptotask.org/en/freelancers/aras-kavyan/46480)
-	•	🔗 [Twitter](#https://x.com/ai_1900?s=21)
+## 🌍 Author & Links
+- 👤 Aras Kavyani / AI 1900
+- 🔗 [GitHub](#www.github.com/Aras-Kavian)
+- 🔗 [LinkedIn](#www.linkedin.com/in/aras-kavyani)
+- 🔗 [LaborX Profile](#www.laborx.com/customers/users/id409982?ref=409982)
+- 🔗 [CryptoTask Profile](#www.cryptotask.org/en/freelancers/aras-kavyan/46480)
+- 🔗 [Twitter](#www.x.com/ai_1900?s=21)
