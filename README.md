@@ -10,12 +10,10 @@ A simple **Sentiment Analysis** project built with **Logistic Regression** and *
 
 ## 🚀 Demo
 
-You can launch the app locally:
-- streamlit run src/app_streamlit.py
-- Then open http://localhost:8501 in your browser:
-<p align="center">
-  <img src="assets/demo_screenshot.png" alt="Demo Screenshot" width="600">
-</p>
+👉 [Live Streamlit App](https://ai1900-sentiment-analysis.streamlit.app/)  
+	•	(Enter any text and see the sentiment prediction with confidence scores in real-time.)
+
+---
 
 ## 📦 Installation
 Clone the repository and install dependencies:
@@ -54,8 +52,6 @@ sentiment-analysis-project/
 - ├── predict.py
 - ├── sentiment_model.pkl
 - └── vectorizer.pkl
-- assets/
-- └── demo_screenshot.png
 - requirements.txt
 - README.md
 
